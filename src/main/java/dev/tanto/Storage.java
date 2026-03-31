@@ -23,7 +23,12 @@ public class Storage {
             scanner.nextLine();
             while (scanner.hasNextLine()) {
                 String line = scanner.nextLine();
-                System.out.println(line);
+                NameDict nameDict = new NameDict();
+                String[] lineArray = line.split(":");
+                nameDict.setHuName(lineArray[0]);
+                nameDict.setItaName(lineArray[1]);
+                nameDictList.add(nameDict);
+                // System.out.println(line);
             }
         }
         return nameDictList;
