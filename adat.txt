@@ -1,0 +1,4 @@
+huName:itaName
+Lajos:Luigi
+Áprád:-
+Antal:Antonio
