@@ -1,0 +1,11 @@
+TODO: Kilépés gomb
+TODO: Keresés kisbetűvel is működjön
+TODO: Enter-re is induljon a Keresés
+TODO: Nem elérhető névre figyelmeztetés
+TODO: Névjegy
+TODO: Kötőjel helyett egyéb szöveg
+TODO: Keresésnek stílus
+TODO: CRUD műveletek a szavakhoz
+TODO: Adatbázis használat
+TODO: ikon készítése
+TODO: weboldal készítése
